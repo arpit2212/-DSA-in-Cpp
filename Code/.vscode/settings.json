@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    "vscode_vibrancy.opacity": -1,
+    "checksums.autoFix": true
 }
